@@ -3,6 +3,23 @@
 }
 
 body {
-    background-color: #84d7ff;
-    color: #6d6464;
+    background-color: #fff;
+    color: #fff;
+}
+
+.content {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #011b34;
+    border-radius: 5px;
+    box-shadow: 2px 4px 5px #888888;
+}
+
+.itens-menu {
+    color: #fff;
+}
+
+.logo img, .logo{
+    width: 89px;
+    height: 71px;
 }

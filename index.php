@@ -8,13 +8,8 @@
         <link rel="stylesheet" href="css/main.css">
     </head>
     <body>
-        <header>
-            <div class="page-header borda-titulo">
-                <h1>Clinica </h1>
-                <ul class="nav nav-pills">
-                    
-                </ul>
-            </div>
-        </header>
+        <div class="content">
+            <?php include 'components/header.php';?>
+        </div>
     </body>
 </html>
